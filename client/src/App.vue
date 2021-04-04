@@ -3,10 +3,11 @@
     <router-link to="/">
       Home
     </router-link> |
-    <router-link to="/about">
-      About
-    </router-link>
+    <router-link to="/Connection">Connection Metamask</router-link> |
+    <router-link to="/Song">Song for a city</router-link> |
+    <router-link to="/Tout">Tout DOUCEMENT</router-link> |
   </div>
+  <router-view/>
 </template>
 
 <style>
