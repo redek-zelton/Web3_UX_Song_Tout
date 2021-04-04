@@ -23,5 +23,9 @@ npm run dev
 À noter: impossible de lire le fichier HTML json car
 la page n'est pas sécurisée !!
 
+## À Savoir
+Une grande partie de notre projet se lit sur la
+console: F12 ( utiliser Firefox)
+
 #### Heroku
 Pas de déploiement
